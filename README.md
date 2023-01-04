@@ -1,2 +1,1 @@
-# Challenage_3_Password_Generator
-JS_API
+# Password Generator Starter Code
